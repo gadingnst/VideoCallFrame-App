@@ -21,7 +21,7 @@ import javax.swing.table.DefaultTableModel;
 public class ChatClient extends javax.swing.JFrame {
 
     //  public static final String SKYPE_PATH = "/usr/bin/skypeforlinux";
-    public static final String WEB_LINK = "https://videolink2me.com/o/3d24518b";
+    public static final String WEB_LINK = "https://videolink2me.com";
 
     /**
      * Creates new form ChatClient
